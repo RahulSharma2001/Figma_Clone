@@ -50,3 +50,6 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/your/repository.git
    ```
+
+### Run npm i
+before running it
